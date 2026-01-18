@@ -1,79 +1,104 @@
-<h1 align="center">Hey, I'm Siddhant 👋</h1>
-<h3 align="center">Building AI, Blockchain & Data Products that actually ship</h3>
+<!-- Batman-style animated header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Siddhant%20Gahlot&fontSize=48&fontColor=9CA3AF&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/siddhant-gahlot-b1215a284/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sid0229">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=9CA3AF&center=true&vCenter=true&width=500&lines=I+build+quietly.;I+ship+things+that+last.;AI+%7C+Blockchain+%7C+Data+Systems" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 🦇 About
 
-I’m a **dual-degree student (IIT Madras + GGSIPU)** working at the intersection of  
-**AI, Machine Learning, Blockchain, and real-world systems**.
+I’m a **dual-degree engineer** (IIT Madras + GGSIPU) building at the intersection of  
+**AI, data systems, and decentralized infrastructure**.
 
-I love building:
-- AI systems that explain themselves  
-- Privacy-first, decentralized products  
-- Data-driven platforms that scale cleanly  
+I don’t chase trends.  
+I design systems that **hold up under real-world pressure**.
 
-Currently shipping products, breaking assumptions, and learning in public.
+My work focuses on:
+- Explainable and applied AI  
+- Blockchain-backed ownership and trust systems  
+- Data products that convert signals into decisions  
 
----
-
-## 🧠 What I’m Building
-
-- 🔗 **DeVahan** – NFT-based vehicle ownership & transfer system  
-- 🧮 **AltCredX** – AI + Blockchain credit scoring for underbanked users  
-- 🗳️ **Blockchain Voting System** – Secure, auditable student elections  
-- 📊 **ProdigalAI** – User behavior analytics with heatmaps & AI insights  
+> *Not everything needs noise. Some things just need to work.*
 
 ---
 
-## 🛠️ Tech Stack
+### ⚙️ What I’m Building
+
+- **DeVahan** — NFT-based vehicle ownership & transfer infrastructure  
+- **AltCredX** — AI + blockchain credit scoring for underbanked users  
+- **ProdigalAI** — User behavior analytics with heatmaps & AI insights  
+- **Blockchain Voting System** — Secure, auditable digital elections  
+
+Each project solves a **real governance, finance, or trust problem**.
+
+---
+
+### 🛠️ Stack (What I Actually Use)
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=9CA3AF"/>
+  <img src="https://img.shields.io/badge/Java-0D1117?style=flat&logo=openjdk&logoColor=9CA3AF"/>
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=9CA3AF"/>
+  <img src="https://img.shields.io/badge/Flask-0D1117?style=flat&logo=flask&logoColor=9CA3AF"/>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat&logo=mongodb&logoColor=9CA3AF"/>
+  <img src="https://img.shields.io/badge/Solidity-0D1117?style=flat&logo=solidity&logoColor=9CA3AF"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat&logo=tensorflow&logoColor=9CA3AF"/>
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat&logo=pytorch&logoColor=9CA3AF"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+### 🧩 Selected Work
 
-| Project | Description |
-|--------|-------------|
-| **DeVahan** | Blockchain-backed vehicle ownership platform |
-| **AltCredX** | Explainable AI credit scoring with Web3 audit logs |
-| **CitySafe** | Women safety app using geo-fencing & heatmaps |
+| Project | Focus |
+|-------|------|
+| **DeVahan** | Web3 ownership, IPFS, MetaMask, RTO workflows |
+| **PramaanNFT** | Blockchain-based property validation |
+| **Finsights** | Full-stack personal finance analytics |
+| **Citizen Care Pharmacy** | Data-driven business optimization |
+
+I care more about **depth than volume**.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Signal Over Noise
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sid0229&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sid0229&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sid0229&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sid0229&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+### 🕶️ Beyond Code
 
-If you're building something meaningful or want to collaborate on  
-**AI, blockchain, or data-heavy products**, feel free to reach out.
+- Dual-degree engineer with strong data foundations  
+- Experience shipping **production AI systems**  
+- Google Cloud & Azure certified  
+- Comfortable owning projects end-to-end  
 
-> “Build things that survive contact with reality.”
+---
+
+### 🔗 Reach Me
+
+<p>
+  <a href="https://www.linkedin.com/in/siddhant-gahlot-b1215a284/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=9CA3AF"/>
+  </a>
+  <a href="mailto:gahlotsiddhant@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=9CA3AF"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Built in the dark. Shipped in the open.</sub>
+</p>
