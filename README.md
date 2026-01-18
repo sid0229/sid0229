@@ -67,19 +67,8 @@ I care more about **depth than volume**.
 
 ### 📊 Signal Over Noise
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sid0229&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" 
-    height="165"
-  />
-</p>
+> I optimize for shipping systems, not farming commits.
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=sid0229&theme=dark&hide_border=true&cache_seconds=86400" 
-    height="165"
-  />
-</p>
 
 
 ---
