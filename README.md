@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=60A5FA&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+RAG+pipelines+%26+production+ML;Top+15%25+%2F+2%2C744+in+ML+competition" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=60A5FA&center=true&vCenter=true&width=650&lines=AI%2FML+%7C+Software+Engineering+%7C+Data+Science;Full-stack+builder+with+a+research+habit;Top+15%25+%2F+2%2C744+in+ML+competition" />
 </p>
 
 <p align="center">
@@ -17,9 +17,16 @@
 
 ### About
 
-I'm a dual-degree engineer (AI/ML at GGSIPU + Data Science at IIT Madras) building applied AI systems — RAG pipelines, LLM-powered apps, and ML models for hard, imbalanced real-world data. I also ship full-stack products end to end when an idea needs a working demo, not just a notebook.
+I'm a dual-degree engineer (AI/ML at GGSIPU + Data Science at IIT Madras) who works across four areas depending on the problem: **applied AI/ML**, **software engineering**, **data science**, and **front-end-heavy product builds**. I'd rather ship a working system than stay in one lane — my projects below are tagged by what they actually demonstrate.
 
-Currently looking for **AI/ML and Gen AI engineering roles** where I can work on production-grade systems.
+Currently exploring **SDE, AI/ML, Data Science, and Frontend/UI-focused roles**.
+
+| Track | What I bring |
+|---|---|
+| **AI / ML** | RAG pipelines, prompt engineering, OpenAI APIs, imbalanced classification, LightGBM/XGBoost |
+| **SWE / SDE** | Full-stack apps (React + Node/Python), REST APIs, Docker, CI/CD fundamentals, Git |
+| **Data Science** | Feature engineering, statistical modeling, Pandas/NumPy, business analytics, dashboarding |
+| **Frontend / UI** | React/Next.js, responsive & mobile-first builds, component-driven UI, role-based dashboards |
 
 ---
 
@@ -71,12 +78,13 @@ Currently looking for **AI/ML and Gen AI engineering roles** where I can work on
 
 ### Selected Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Comment Category Prediction](#)** | Imbalanced multiclass text classifier, Top 15% / 2,744 teams | LightGBM, XGBoost, TF-IDF |
-| **[Finsights](#)** | LLM-powered finance tracker with NL query over spending data | React, Node.js, Python, MongoDB |
-| **[DeVahan](#)** | Web3 vehicle ownership with multilingual, role-based dashboards | React, Solidity, IPFS, MetaMask |
-| **[PramaanNFT](#)** | Property validation via NFT minting and smart contracts | React, Python, Solidity |
+| Project | What it does | Tracks | Stack |
+|---|---|---|---|
+| **[Comment Category Prediction](#)** | Imbalanced multiclass text classifier, Top 15% / 2,744 teams, Macro F1 0.8627 | Data Science · AI/ML | LightGBM, XGBoost, TF-IDF |
+| **[Finsights](#)** | LLM-powered finance tracker with NL query over spending data | AI/ML · SWE · Frontend | React, Node.js, Python, MongoDB |
+| **[DeVahan](#)** | Web3 vehicle ownership with multilingual, role-based dashboards | SWE · Frontend | React, Solidity, IPFS, MetaMask |
+| **[PramaanNFT](#)** | Property validation via NFT minting and smart contracts | SWE · AI/ML | React, Python, Solidity |
+| **[Citizen Care Pharmacy](#)** | End-to-end business analytics on pharmacy sales data | Data Science | Python, Excel |
 
 *Replace the `#` links above with your actual repo URLs.*
 
@@ -93,7 +101,7 @@ Currently looking for **AI/ML and Gen AI engineering roles** where I can work on
 
 ### Beyond code
 
-Hackathon winner (Zenith 4.0), badminton and cricket, and occasional video production. Open to internships, AI/ML roles, and interesting collaborations — feel free to reach out.
+Hackathon winner (Zenith 4.0), badminton and cricket, and occasional video production. Open to SDE, AI/ML, Data Science, and Frontend roles — feel free to reach out.
 
 <p align="center">
   <sub>Open to opportunities · reach out via email or LinkedIn above</sub>
