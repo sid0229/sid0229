@@ -91,8 +91,15 @@ Currently exploring **SDE, AI/ML, Data Science, and Frontend/UI-focused roles**.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sid0229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sid0229&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sid0229&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    height="170"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=sid0229&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 ---
