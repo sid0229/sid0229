@@ -86,8 +86,6 @@ Currently exploring **SDE, AI/ML, Data Science, and Frontend/UI-focused roles**.
 | **[PramaanNFT](#)** | Property validation via NFT minting and smart contracts | SWE · AI/ML | React, Python, Solidity |
 | **[Citizen Care Pharmacy](#)** | End-to-end business analytics on pharmacy sales data | Data Science | Python, Excel |
 
-*Replace the `#` links above with your actual repo URLs.*
-
 ---
 
 ### GitHub Stats
